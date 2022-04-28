@@ -1,0 +1,11 @@
+{
+  "name": "terminal",
+  "configureDotEnv": true,
+  "integrations": [
+    {
+      "name": "stripe-terminal-collect-payments",
+      "clients": ["html"],
+      "servers": ["node"]
+    }
+  ]
+}
