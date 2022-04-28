@@ -11,7 +11,7 @@ This project has an already scaffolded Express JS backend and Vue.js frontend.
 The recommended way to use this Stripe Sample is with the [Stripe CLI](https://stripe.com/docs/stripe-cli#install):
 
 ```sh
-stripe samples create stripe-terminal-list-readers
+stripe samples create stripe-terminal-collect-payments
 ```
 
 You can also clone the repository, but there is a bit more manual setup work to
