@@ -10,7 +10,7 @@
   "author": "stripe-samples",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^16.0.0",
+    "dotenv": "^16.0.1",
     "express": "^4.17.3",
     "express-handlebars": "^6.0.5",
     "nodemon": "^2.0.15",
