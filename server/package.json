@@ -13,7 +13,7 @@
     "dotenv": "^16.0.1",
     "express": "^4.17.3",
     "express-handlebars": "^6.0.5",
-    "nodemon": "^2.0.15",
+    "nodemon": "^2.0.19",
     "stripe": "^8.217.0"
   }
 }
