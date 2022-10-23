@@ -25,5 +25,5 @@ npm start
 
 ```
 
-3. Run the Vue web app in the client and visit `localhost:3000`.
+3. Run the Vue web app in the client and visit `localhost:4242`.
 ```
